@@ -1,11 +1,13 @@
 # Centralized-College-Database
-DBMS Project IIIT-Allahabad Sem 4 
+
+DBMS Project IUS sem 3
 
 Make sure you install the right Node modules for the Project.
 
 Project Members:
-1>Aditya Y (Me)
-2>John A (lostquark on GitHub)
+1>Shofikul Islam(me) id : 241010065
+2>Tariqul Islam id : 241010146
+3>Shakibur rahman id : 241010111
 
 Tech Stack used
 ->Node.js (backend)
@@ -17,7 +19,6 @@ Tech Stack used
 ->CSS
 ->MySQL (Database)
 
-
 Project Preview:
 
 1>Main Page
@@ -26,9 +27,8 @@ Project Preview:
 2>Search Database
 ![WhatsApp Image 2023-05-11 at 17 43 53](https://github.com/adibullu123/Centralized-College-Database/assets/97466499/3493ffd2-852b-45ba-861c-cd30abd2a981)
 
-Results of a search 
+Results of a search
 ![WhatsApp Image 2023-05-11 at 17 50 10](https://github.com/adibullu123/Centralized-College-Database/assets/97466499/494ae79d-7c0f-4995-b076-2ea789d81f86)
-
 
 Project Question:
 
@@ -39,7 +39,7 @@ Abstract of the Project:
 There are many academic departments in a college, such as the Department of English, Department of Mathematics, Department of History, and many more. And a variety of courses are offered by each department. And possibly an instructor can teach more than one course. For example, a physics professor can teach maths also.
 
 As a maths student, a student can enroll in both courses. Therefore, there can be any number of students in a course in a college, but the important thing is that there can be only one instructor for both these courses to avoid overlapping.
-. 
+.
 
 Project Task
 
@@ -47,7 +47,6 @@ Project Task
 2.Key attributes, Non-key attributes, Primary key identification,
 3.Database design has to be done.
 4.Front-end and back end, finalization along with connectivity.
-
 
 Functional components of the project:
 Following is a list of functionalities of the system. More functionality that you find appropriate
